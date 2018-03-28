@@ -9,4 +9,4 @@
 ## git使用方式
    直接导入js文件，使用构造函数Tab传入对应参数即可(第一个为dom节点,第二个可选，tab数目)
 
-   [预览地址]()
+   [预览地址](https://mamba-working.github.io/js-component-tab/sample.htmlgit)
